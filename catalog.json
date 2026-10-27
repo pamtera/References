@@ -1,0 +1,1355 @@
+[
+ {
+  "id": 1,
+  "title": "Butter Video | Online Video Editor Engineered for Creativity",
+  "url": "https://www.butter.video/",
+  "domain": "www.butter.video",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/1-01-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#e0e1e0",
+   "#eceded",
+   "#f3f3f3",
+   "#f8f8f8",
+   "#abaaa9"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 2,
+  "title": "Mistral | #1 in Sovereign AI: Frontier Open Models You Own",
+  "url": "https://mistral.ai",
+  "domain": "mistral.ai",
+  "hitman_category": "AI",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/2-02-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#fbfbf8",
+   "#e4c09f",
+   "#fcfdfb",
+   "#fcfbf7",
+   "#fafbf9"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 3,
+  "title": "AI in Design Report 2026",
+  "url": "https://stateofaidesign.com/",
+  "domain": "stateofaidesign.com",
+  "hitman_category": "Event",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/3-03-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#f49984",
+   "#dfd0ed",
+   "#969196",
+   "#d2bac7",
+   "#e6e2ea"
+  ],
+  "cookie_note": null,
+  "capture_flag": "Captura de la animación de entrada; hero final sin confirmar.",
+  "live": false
+ },
+ {
+  "id": 4,
+  "title": "Halfdays | Own the mountain.",
+  "url": "https://www.halfdays.com/en-ao",
+  "domain": "www.halfdays.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/4-04-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#5f1c0b",
+   "#a7b2b1",
+   "#eaeae6",
+   "#7c574b",
+   "#fafaed"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 5,
+  "title": "Carter Ogunsola :: Creative Developer & Brand Engineer",
+  "url": "https://carterogunsola.com/",
+  "domain": "carterogunsola.com",
+  "hitman_category": "Developer",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/5-05-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#232323",
+   "#212020",
+   "#1f1f1f",
+   "#465c56",
+   "#1b1b1a"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 6,
+  "title": "Nick Pyl",
+  "url": "https://nickpyl.space/",
+  "domain": "nickpyl.space",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/6-06-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#f9f9f9",
+   "#e5e5e5",
+   "#fefffe",
+   "#dff8e8"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 7,
+  "title": "mamuso - manuel muñoz solera",
+  "url": "https://mamuso.dev/",
+  "domain": "mamuso.dev",
+  "hitman_category": "Developer",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/7-07-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#f0f0f0",
+   "#4c5359",
+   "#d5d5d6",
+   "#ededed",
+   "#f4f3f3"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 8,
+  "title": "Specialty Decaf and 1/4 Caf Coffee without a Curfew",
+  "url": "https://www.heist.co/",
+  "domain": "www.heist.co",
+  "hitman_category": "Venue",
+  "my_categories": [
+   "Food",
+   "coffee"
+  ],
+  "my_tags": [
+   "modern",
+   "fresh",
+   "impact"
+  ],
+  "my_note": "elemento del vaso se mueve junto con el scroll y cae en una mano. también me gusta la topografía y el efecto del fondo con ruido, textura.",
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/8-08-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#2f1e2b",
+   "#112659",
+   "#366ed1",
+   "#48457b",
+   "#c0bebc"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 9,
+  "title": "Williams Alamu (Willie)",
+  "url": "https://www.willie.works/",
+  "domain": "www.willie.works",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/9-09-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#e3e7ea",
+   "#ffffff",
+   "#9d9591",
+   "#fcfcfc",
+   "#edeff0"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 10,
+  "title": "Twistudio: Global Creative Studio 🌍",
+  "url": "https://www.twistudio.fr/",
+  "domain": "www.twistudio.fr",
+  "hitman_category": "Studio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/10-10-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#e3e1e5",
+   "#0e0e0e",
+   "#868283",
+   "#5b3c40",
+   "#2a2627"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 11,
+  "title": "GALA '27",
+  "url": "https://presale.thisisgala.co.uk/",
+  "domain": "presale.thisisgala.co.uk",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/11-11-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#dee1e6",
+   "#ff595b",
+   "#d5e4ef",
+   "#e6cad8",
+   "#e1e5eb"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 12,
+  "title": "LORE – Scents that take you somewhere.",
+  "url": "https://lore.world/",
+  "domain": "lore.world",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/12-12-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#4e4d44",
+   "#64635c",
+   "#5a5951",
+   "#242220",
+   "#797a7b"
+  ],
+  "cookie_note": "REJECT ALL",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 13,
+  "title": "Lotto",
+  "url": "https://lotto.studio/projects/capsulum/",
+  "domain": "lotto.studio",
+  "hitman_category": "Studio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/13-13-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#e0e1e4",
+   "#e7e8ec",
+   "#ececf0",
+   "#f1f2f4",
+   "#8a8487"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 14,
+  "title": "Yuri Roga",
+  "url": "https://yuriroga.com/",
+  "domain": "yuriroga.com",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/14-14-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#442f28",
+   "#b8afac",
+   "#f6f4f0",
+   "#feffff"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 15,
+  "title": "Callosum",
+  "url": "https://www.callosum.com/",
+  "domain": "www.callosum.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/15-15-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#9ae1d4",
+   "#93cfc3",
+   "#9ae2d5",
+   "#5b6e64",
+   "#a6e6db"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 16,
+  "title": "Dodge AI | Control Plane for Enterprise Applications",
+  "url": "https://www.getdodge.ai/",
+  "domain": "www.getdodge.ai",
+  "hitman_category": "AI",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/16-16-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#1e2e56",
+   "#0d0c0d",
+   "#121724",
+   "#6a7ca5",
+   "#0c0a0b"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 17,
+  "title": "V7 Go | AI Workflows for Finance, Insurance, & Enterprise",
+  "url": "https://www.v7labs.com/",
+  "domain": "www.v7labs.com",
+  "hitman_category": "Money",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/17-17-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#f6f6f6",
+   "#8d8d8d",
+   "#fffffe",
+   "#feffff"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 18,
+  "title": "Josephine & Company — Independent Film and Storytelling Studio",
+  "url": "https://josephine.media/",
+  "domain": "josephine.media",
+  "hitman_category": "Studio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/18-18-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#160905",
+   "#451c10",
+   "#390e08",
+   "#5f341d",
+   "#9b7a66"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 19,
+  "title": "Daylight",
+  "url": "https://godaylight.com/",
+  "domain": "godaylight.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/19-19-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#292218",
+   "#644228",
+   "#b5612b",
+   "#9a7653",
+   "#b4a490"
+  ],
+  "cookie_note": "Reject",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 20,
+  "title": "JUSSU",
+  "url": "https://jussuobjects.com/",
+  "domain": "jussuobjects.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/20-20-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#efefef",
+   "#d9dadb",
+   "#f9fafb",
+   "#91a0ae"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 21,
+  "title": "Cole Derochie · Software Designer",
+  "url": "https://colederochie.com/",
+  "domain": "colederochie.com",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/21-21-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#000000",
+   "#ffffff",
+   "#4b4b4b",
+   "#cbcbcb",
+   "#0e0e0e"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 22,
+  "title": "IDA radio",
+  "url": "https://idaidaida.net/",
+  "domain": "idaidaida.net",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/22-22-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#c8c8c8",
+   "#484746",
+   "#9c9e9b",
+   "#d4d4d0",
+   "#c8c8c4"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 23,
+  "title": "MUA — The Makeup Archive",
+  "url": "https://makeuparchive.org/",
+  "domain": "makeuparchive.org",
+  "hitman_category": "Editorial",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/23-23-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#f8f8f8",
+   "#dcd7d7",
+   "#fafafa",
+   "#f5f9f6",
+   "#f8f8f7"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 24,
+  "title": "COMMON DIMENSIONS",
+  "url": "https://commondimensions.com/",
+  "domain": "commondimensions.com",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/24-24-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#4e4941",
+   "#b1afa8",
+   "#edecdf",
+   "#ffff4a"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 25,
+  "title": "Home | Huck",
+  "url": "https://www.huckmag.com/",
+  "domain": "www.huckmag.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/25-25-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#515f27",
+   "#32363a",
+   "#24252e",
+   "#4b582a",
+   "#b0b6a7"
+  ],
+  "cookie_note": "Close",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 26,
+  "title": "Inversion",
+  "url": "https://www.inversionspace.com/",
+  "domain": "www.inversionspace.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/26-26-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#000000",
+   "#f2efeb",
+   "#f6f3ef",
+   "#131212",
+   "#9e9c99"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 27,
+  "title": "9.63",
+  "url": "https://ninepointsixthree.co/",
+  "domain": "ninepointsixthree.co",
+  "hitman_category": "Studio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/27-27-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#faf9f6",
+   "#bcb7ba",
+   "#f9f9f7",
+   "#fcfcfa",
+   "#fbf9f6"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 28,
+  "title": "Edra",
+  "url": "https://www.edra.ai/",
+  "domain": "www.edra.ai",
+  "hitman_category": "AI",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/28-28-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#fffff9",
+   "#fafaf0",
+   "#fffffb",
+   "#e2e2d1",
+   "#fffff2"
+  ],
+  "cookie_note": "Reject All",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 29,
+  "title": "Funner | Professional Haircare for Hair You Want to Wear",
+  "url": "https://www.shopfunner.com/",
+  "domain": "www.shopfunner.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/29-29-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#f5f1dc",
+   "#1f1717",
+   "#cfc4af",
+   "#aa8771",
+   "#595e5c"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 30,
+  "title": "mur mur",
+  "url": "https://www.murmur.living/",
+  "domain": "www.murmur.living",
+  "hitman_category": "Event",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/30-30-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#e2ddd1",
+   "#acb68d",
+   "#dfddcb",
+   "#ece9e0",
+   "#e3ddcf"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 31,
+  "title": "Build expert AI agents in minutes",
+  "url": "https://sanalabs.com/products/sana/",
+  "domain": "sanalabs.com",
+  "hitman_category": "AI",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/31-31-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#f3f4f1",
+   "#3c332f",
+   "#e7e7e5",
+   "#f9f9f7"
+  ],
+  "cookie_note": "Only necessary cookies",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 32,
+  "title": "Free AI Voice Generator & Voice Agents Platform",
+  "url": "https://elevenlabs.io/",
+  "domain": "elevenlabs.io",
+  "hitman_category": "AI",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/32-32-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#fdfcfc",
+   "#f5f3f1",
+   "#ceb8b6",
+   "#fffefe",
+   "#faf9f8"
+  ],
+  "cookie_note": "Reject all",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 33,
+  "title": "Planhat | A new generation of CRM",
+  "url": "https://www.planhat.com/",
+  "domain": "www.planhat.com",
+  "hitman_category": "Work",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/33-33-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#794443",
+   "#5b3738",
+   "#82655f",
+   "#927b74",
+   "#e4dfdd"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 34,
+  "title": "Ruul | Contract Work, Simplified",
+  "url": "https://ruul.io/",
+  "domain": "ruul.io",
+  "hitman_category": "Money",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/34-34-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#1d302a",
+   "#1c261f",
+   "#192018",
+   "#48584c",
+   "#17271f"
+  ],
+  "cookie_note": "Reject All",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 35,
+  "title": "Talltech | Home Automation & Security, Noosa & Brisbane",
+  "url": "https://talltech.co/",
+  "domain": "talltech.co",
+  "hitman_category": "Work",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/35-35-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#8f7f66",
+   "#c1dba9",
+   "#4c3826",
+   "#372517",
+   "#64462f"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 36,
+  "title": "Join the waitlist",
+  "url": "https://bloomy.so/",
+  "domain": "bloomy.so",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/36-36-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#eff0f0",
+   "#d0d4de",
+   "#fcfbfb",
+   "#fffffd"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 37,
+  "title": "Dirt | Global Creative Studio for Real World Brands",
+  "url": "https://dirtverse.co/",
+  "domain": "dirtverse.co",
+  "hitman_category": "Studio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/37-37-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#fefefe",
+   "#fcfcfb",
+   "#ffffff",
+   "#bcbcbb",
+   "#fefeff"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 38,
+  "title": "Antinomy Studio",
+  "url": "https://www.antinomy.studio/",
+  "domain": "www.antinomy.studio",
+  "hitman_category": "Studio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/38-38-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#614940",
+   "#b2988c",
+   "#f5f5f5",
+   "#dacfcc"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 39,
+  "title": "bychudy",
+  "url": "https://www.bychudy.com/",
+  "domain": "www.bychudy.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/39-39-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#f1f1f1",
+   "#f2f2f2",
+   "#553d35",
+   "#c4bbbc",
+   "#f6f6f5"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 40,
+  "title": "Ornn | Financial Products for Compute",
+  "url": "https://ornn.com/",
+  "domain": "ornn.com",
+  "hitman_category": "Money",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/40-40-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#000000",
+   "#37291a",
+   "#886847",
+   "#17110b",
+   "#060403"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 41,
+  "title": "Rulebase | AI agent monitoring for customer-facing agents",
+  "url": "https://rulebase.co/",
+  "domain": "rulebase.co",
+  "hitman_category": "AI",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/41-41-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#1a1716",
+   "#b6ac9a",
+   "#e3ded5",
+   "#342d2a",
+   "#171514"
+  ],
+  "cookie_note": "No thanks",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 42,
+  "title": "Bencho — Interactive React UI Components & Micro-interactions",
+  "url": "https://bencho.dev/",
+  "domain": "bencho.dev",
+  "hitman_category": "Developer",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/42-42-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#f1f1f2",
+   "#fcfcfc",
+   "#c5c5c6",
+   "#f6f6f6"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 43,
+  "title": "CW&T",
+  "url": "https://cwandt.com/",
+  "domain": "cwandt.com",
+  "hitman_category": "Studio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/43-43-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#000000",
+   "#c8c8c8",
+   "#f6f6f6",
+   "#3a3a3a"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 44,
+  "title": "Everyday Electric — Home energy as it should be",
+  "url": "https://www.everydayelectric.com/",
+  "domain": "www.everydayelectric.com",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/44-44-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#282b25",
+   "#090e0d",
+   "#141712",
+   "#9a9c9d",
+   "#0d130f"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 45,
+  "title": "Open USD (OUSD) Stablecoin",
+  "url": "https://joinopenstandard.com",
+  "domain": "joinopenstandard.com",
+  "hitman_category": "Money",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/45-45-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#f4eae4",
+   "#3f1129",
+   "#46162e",
+   "#c0aeaf",
+   "#350a20"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 46,
+  "title": "Room 6x8",
+  "url": "https://room6x8.com/",
+  "domain": "room6x8.com",
+  "hitman_category": "Company",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/46-46-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#b7b7b7",
+   "#e138a9",
+   "#d5d776",
+   "#b5b7bb",
+   "#bfb79e"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 47,
+  "title": "Bleed Design Studio",
+  "url": "https://bleed.com/",
+  "domain": "bleed.com",
+  "hitman_category": "Studio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/47-47-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#000000",
+   "#191919",
+   "#010101",
+   "#434343",
+   "#080808"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 48,
+  "title": "Damilare Osofisan — Software Designer",
+  "url": "https://damilare.works",
+  "domain": "damilare.works",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/48-48-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#fcfcfc",
+   "#eeeeee",
+   "#d4d4d4",
+   "#fefefe",
+   "#f3f3f3"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 49,
+  "title": "Watts Pet | Real Meat. Targeted Function. Better Each Day.",
+  "url": "https://wattspet.com/",
+  "domain": "wattspet.com",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "blocked_by_headers",
+  "img": {
+   "desktop": "img/49-49-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#050504",
+   "#3c2116",
+   "#755648",
+   "#f3f3f3",
+   "#b2b1b1"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 50,
+  "title": "Axis Mundi",
+  "url": "https://www.axis-mundi.co/",
+  "domain": "www.axis-mundi.co",
+  "hitman_category": "Portfolio",
+  "my_categories": [],
+  "my_tags": [],
+  "my_note": null,
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/50-50-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#bdc8ce",
+   "#8da6bd",
+   "#4171a6",
+   "#d7dde1",
+   "#e7eef1"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 51,
+  "title": "Era Namjoshi | Illustrator & Visual Designer",
+  "url": "https://eranamjoshi.com/",
+  "domain": "eranamjoshi.com",
+  "hitman_category": null,
+  "my_categories": [
+   "illustrator",
+   "artist"
+  ],
+  "my_tags": [
+   "effects",
+   "colors",
+   "fun"
+  ],
+  "my_note": "Me gustan los efectos en los detalles que tiene. Isotipo que se mueve, la araña que va bajando según cuanto scroll tienes al costado. Que el footer pierda nitidez cuando le quitas lo anteojos.",
+  "embed": "sin comprobar",
+  "img": {
+   "desktop": "img/51-51-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#dee1d9",
+   "#e0e1d8",
+   "#dfe1d9",
+   "#d1d1cb",
+   "#e1e3da"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 52,
+  "title": "Restaurante LM",
+  "url": "https://restaurantelm.fi/",
+  "domain": "restaurantelm.fi",
+  "hitman_category": null,
+  "my_categories": [
+   "food",
+   "restaurant"
+  ],
+  "my_tags": [
+   "Restaurant",
+   "cyanotype",
+   "handwriting",
+   "organic"
+  ],
+  "my_note": "Me gusta que es sútil pero interesante, se ve más orgánico, tranquilo. Y que el logo esté hecho a mano.",
+  "embed": "sin comprobar",
+  "img": {
+   "desktop": "img/52-52-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#ffffff",
+   "#6087df",
+   "#e8eefb",
+   "#feffff",
+   "#fffffe"
+  ],
+  "cookie_note": "Reject All",
+  "capture_flag": null,
+  "live": false
+ },
+ {
+  "id": 53,
+  "title": "SearchSystem",
+  "url": "https://searchsystem.co/",
+  "domain": "searchsystem.co",
+  "hitman_category": null,
+  "my_categories": [
+   "Design"
+  ],
+  "my_tags": [
+   "Library",
+   "Design",
+   "Grid"
+  ],
+  "my_note": "la finalidad de la web de guardar referencias de diseño, me gusta más que como referencia gráfica, como un lugar donde ir a buscar inspiración en referentes no directos",
+  "embed": "sin comprobar",
+  "img": {
+   "desktop": "img/53-53-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#000000",
+   "#ffffff",
+   "#dcdbd9",
+   "#64625c",
+   "#fbf1d2"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": false
+ }
+]
