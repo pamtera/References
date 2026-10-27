@@ -24,7 +24,8 @@ function open(i,view='desktop'){sel=i;const a=$('#detail');a.hidden=false;docume
  <a class="btn" href="${i.url}" target="_blank" rel="noopener">Open original ↗</a>
  <h3>My categories and tags</h3><div>${i.my_categories.concat(i.my_tags).map(t=>`<span class="tag mine">${esc(t)}</span>`).join('')||'<span class="pend">None chosen yet</span>'}${i.hitman_category?`<span class="tag">Hitman: ${esc(i.hitman_category)}</span>`:''}</div>
  <h3>My note</h3>${i.my_note?`<p class="note">${esc(i.my_note)}</p>`:'<span class="pend">No note yet</span>'}
- <h3>Dominant colors of the capture</h3><div class="sw">${i.palette.map(c=>`<i style="background:${c}" title="${c}"></i>`).join('')}</div><p class="small">Calculated from the capture, approximate. Typeface: not analyzed.</p>`;
+ <h3>Dominant colors of the capture</h3><div class="sw">${i.palette.map(c=>`<i style="background:${c}" title="${c}"></i>`).join('')}</div><p class="small">Calculated from the capture, approximate.</p>
+ <h3>Typefaces on the live site</h3>${i.fonts?`<ul class="fonts">${i.fonts.fonts.map(f=>`<li><b>${esc(f.family)}</b> · ${f.share}% of text · ${f.status==='loaded'?'web font loaded':'not confirmed (may be a system font)'}</li>`).join('')}</ul><p class="small">Measured on Oct 27, 2026 on the landing page: first font of each text style, share of visible text. Only fonts the page actually loaded count as confirmed. Nothing was downloaded.</p>`:'<p class="small">Not analyzed: this page froze the test browser.</p>'}`;
  a.querySelector('.close').onclick=()=>{a.hidden=true;sel=null;document.querySelector('.wrap').classList.remove('open');render()};
  a.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>open(i,b.dataset.v));render()}
 
