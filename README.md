@@ -1,8 +1,9 @@
-# Biblioteca de referencias web
+# References
 
-Catálogo estático de referencias web con categorías, tags y notas personales (en `catalog.json`).
+A static library of web references with categories, tags and personal notes (in `catalog.json`).
 
-- Sin dependencias: `index.html`, `style.css`, `app.js` y `catalog.json`.
-- Solo lectura: las referencias y notas se añaden editando `catalog.json`.
-- Las notas y tags personales son palabras de su autora; no se editan en la página.
-- Este repositorio no incluye tipografías con licencia ni capturas de webs de terceros.
+- No dependencies: `index.html`, `style.css`, `app.js` and `catalog.json`.
+- Read-only: references and notes are added by editing `catalog.json`.
+- The personal notes and tags are the owner's own words (translated to English); they are not editable on the page.
+- Each card shows a 480px thumbnail of the site and links to the original. Where the original site loads inside the page, it is shown in front of the capture.
+- This repository does not include licensed fonts.
