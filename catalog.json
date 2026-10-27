@@ -22,7 +22,28 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "DieGrotesk",
+     "share": 82,
+     "status": "loaded"
+    },
+    {
+     "family": "ABCDiatype",
+     "share": 9,
+     "status": "loaded"
+    },
+    {
+     "family": "-apple-system",
+     "share": 9,
+     "status": "unconfirmed"
+    }
+   ],
+   "h1": "DieGrotesk",
+   "chars": 5975
+  }
  },
  {
   "id": 2,
@@ -47,7 +68,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "ALTMistral",
+     "share": 69,
+     "status": "loaded"
+    },
+    {
+     "family": "Inter",
+     "share": 31,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 3367
+  }
  },
  {
   "id": 3,
@@ -72,7 +109,28 @@
   ],
   "cookie_note": null,
   "capture_flag": "Capture of the entry animation; final hero not confirmed.",
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Beausite Classic Regular",
+     "share": 72,
+     "status": "loaded"
+    },
+    {
+     "family": "Beausite Classic Medium",
+     "share": 24,
+     "status": "loaded"
+    },
+    {
+     "family": "Geist Mono",
+     "share": 5,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Beausite Classic Medium",
+   "chars": 5637
+  }
  },
  {
   "id": 4,
@@ -97,7 +155,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "SuisseIntl",
+     "share": 92,
+     "status": "loaded"
+    },
+    {
+     "family": "Suisse",
+     "share": 7,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 1778
+  }
  },
  {
   "id": 5,
@@ -122,7 +196,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Oracle",
+     "share": 68,
+     "status": "loaded"
+    },
+    {
+     "family": "PP Neue Montreal Mono",
+     "share": 32,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Oracle",
+   "chars": 197
+  }
  },
  {
   "id": 6,
@@ -147,7 +237,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Geist",
+     "share": 100,
+     "status": "unconfirmed"
+    }
+   ],
+   "h1": "Geist",
+   "chars": 468
+  }
  },
  {
   "id": 7,
@@ -172,7 +273,8 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": null
  },
  {
   "id": 8,
@@ -204,7 +306,28 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "forma-djr-mono",
+     "share": 52,
+     "status": "loaded"
+    },
+    {
+     "family": "Feature Display Condensed",
+     "share": 26,
+     "status": "loaded"
+    },
+    {
+     "family": "forma-djr-micro",
+     "share": 10,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Feature Display Condensed",
+   "chars": 4051
+  }
  },
  {
   "id": 9,
@@ -229,7 +352,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "BDO Grotesk-23df2651011d1141",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": "BDO Grotesk-23df2651011d1141",
+   "chars": 348
+  }
  },
  {
   "id": 10,
@@ -254,7 +388,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Px 437 Dos V Re",
+     "share": 68,
+     "status": "loaded"
+    },
+    {
+     "family": "Suisseintl Book",
+     "share": 32,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Suisseintl Book",
+   "chars": 3503
+  }
  },
  {
   "id": 11,
@@ -279,7 +429,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "ABCPelikanExtended",
+     "share": 52,
+     "status": "loaded"
+    },
+    {
+     "family": "ABCPelikan",
+     "share": 48,
+     "status": "loaded"
+    }
+   ],
+   "h1": "ABCPelikan",
+   "chars": 460
+  }
  },
  {
   "id": 12,
@@ -304,7 +470,23 @@
   ],
   "cookie_note": "REJECT ALL",
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "diatype",
+     "share": 80,
+     "status": "loaded"
+    },
+    {
+     "family": "louize",
+     "share": 20,
+     "status": "loaded"
+    }
+   ],
+   "h1": "louize",
+   "chars": 1492
+  }
  },
  {
   "id": 13,
@@ -329,7 +511,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "voltamodern",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": "voltamodern",
+   "chars": 4704
+  }
  },
  {
   "id": 14,
@@ -354,7 +547,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Helvetica",
+     "share": 100,
+     "status": "unconfirmed"
+    }
+   ],
+   "h1": null,
+   "chars": 223
+  }
  },
  {
   "id": 15,
@@ -379,7 +583,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "abcDiatype",
+     "share": 96,
+     "status": "loaded"
+    }
+   ],
+   "h1": "abcDiatype",
+   "chars": 2538
+  }
  },
  {
   "id": 16,
@@ -404,7 +619,28 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "ppNeueMontreal",
+     "share": 69,
+     "status": "loaded"
+    },
+    {
+     "family": "latitude",
+     "share": 15,
+     "status": "loaded"
+    },
+    {
+     "family": "Inter",
+     "share": 13,
+     "status": "loaded"
+    }
+   ],
+   "h1": "latitude",
+   "chars": 2815
+  }
  },
  {
   "id": 17,
@@ -429,7 +665,28 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "STK Bureau Sans Book",
+     "share": 55,
+     "status": "loaded"
+    },
+    {
+     "family": "Martina Plantijn Light",
+     "share": 30,
+     "status": "loaded"
+    },
+    {
+     "family": "STK Bureau STK Bureau",
+     "share": 15,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Martina Plantijn Light",
+   "chars": 8155
+  }
  },
  {
   "id": 18,
@@ -454,7 +711,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Switzer",
+     "share": 79,
+     "status": "loaded"
+    },
+    {
+     "family": "IBM Plex Mono",
+     "share": 18,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Tilt Warp",
+   "chars": 601
+  }
  },
  {
   "id": 19,
@@ -479,7 +752,28 @@
   ],
   "cookie_note": "Reject",
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "aeonikPro",
+     "share": 78,
+     "status": "loaded"
+    },
+    {
+     "family": "socialMono",
+     "share": 13,
+     "status": "loaded"
+    },
+    {
+     "family": "featureDeck",
+     "share": 9,
+     "status": "loaded"
+    }
+   ],
+   "h1": "featureDeck",
+   "chars": 4159
+  }
  },
  {
   "id": 20,
@@ -504,7 +798,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Courier New",
+     "share": 95,
+     "status": "unconfirmed"
+    },
+    {
+     "family": "Space Mono",
+     "share": 5,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 2967
+  }
  },
  {
   "id": 21,
@@ -529,7 +839,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Arial",
+     "share": 87,
+     "status": "unconfirmed"
+    },
+    {
+     "family": "ui-rounded",
+     "share": 13,
+     "status": "unconfirmed"
+    }
+   ],
+   "h1": "Arial",
+   "chars": 163
+  }
  },
  {
   "id": 22,
@@ -554,7 +880,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "favoritFont",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 2736
+  }
  },
  {
   "id": 23,
@@ -579,7 +916,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "mua_text",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 492
+  }
  },
  {
   "id": 24,
@@ -604,7 +952,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Alte Haas",
+     "share": 67,
+     "status": "loaded"
+    },
+    {
+     "family": "Diatype Mono",
+     "share": 33,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Alte Haas",
+   "chars": 100
+  }
  },
  {
   "id": 25,
@@ -629,7 +993,33 @@
   ],
   "cookie_note": "Close",
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Archivo Variable",
+     "share": 56,
+     "status": "loaded"
+    },
+    {
+     "family": "GT Alpina",
+     "share": 17,
+     "status": "loaded"
+    },
+    {
+     "family": "Archivo Narrow Variable",
+     "share": 12,
+     "status": "loaded"
+    },
+    {
+     "family": "Helvetica",
+     "share": 7,
+     "status": "unconfirmed"
+    }
+   ],
+   "h1": "Archivo Variable",
+   "chars": 16378
+  }
  },
  {
   "id": 26,
@@ -654,7 +1044,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "VC Nudge",
+     "share": 47,
+     "status": "loaded"
+    },
+    {
+     "family": "GT Zirkon",
+     "share": 42,
+     "status": "loaded"
+    }
+   ],
+   "h1": "VC Nudge",
+   "chars": 2476
+  }
  },
  {
   "id": 27,
@@ -679,7 +1085,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Helvetica",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 34
+  }
  },
  {
   "id": 28,
@@ -704,7 +1121,28 @@
   ],
   "cookie_note": "Reject All",
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Bradford",
+     "share": 52,
+     "status": "loaded"
+    },
+    {
+     "family": "ABC ROM",
+     "share": 33,
+     "status": "loaded"
+    },
+    {
+     "family": "ABC ROM Mono",
+     "share": 13,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Bradford",
+   "chars": 2322
+  }
  },
  {
   "id": 29,
@@ -729,7 +1167,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "bellCentennialSubCaption",
+     "share": 69,
+     "status": "loaded"
+    },
+    {
+     "family": "bellCentennialNameandNumber",
+     "share": 31,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 1936
+  }
  },
  {
   "id": 30,
@@ -754,7 +1208,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Geist",
+     "share": 85,
+     "status": "unconfirmed"
+    },
+    {
+     "family": "Datatype",
+     "share": 7,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 2559
+  }
  },
  {
   "id": 31,
@@ -779,7 +1249,18 @@
   ],
   "cookie_note": "Only necessary cookies",
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Sana Sans",
+     "share": 99,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Sana Sans",
+   "chars": 5100
+  }
  },
  {
   "id": 32,
@@ -804,7 +1285,23 @@
   ],
   "cookie_note": "Reject all",
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Inter",
+     "share": 91,
+     "status": "loaded"
+    },
+    {
+     "family": "Geist Mono",
+     "share": 5,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Waldenburg",
+   "chars": 9512
+  }
  },
  {
   "id": 33,
@@ -829,7 +1326,33 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "ABC Diatype Regular",
+     "share": 62,
+     "status": "loaded"
+    },
+    {
+     "family": "Pi Carousel Diatype",
+     "share": 13,
+     "status": "loaded"
+    },
+    {
+     "family": "ABC Diatype Medium",
+     "share": 9,
+     "status": "loaded"
+    },
+    {
+     "family": "Geigy LL Duplex Var Variable Reg",
+     "share": 9,
+     "status": "loaded"
+    }
+   ],
+   "h1": "ABC Diatype Regular",
+   "chars": 3749
+  }
  },
  {
   "id": 34,
@@ -854,7 +1377,23 @@
   ],
   "cookie_note": "Reject All",
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Hedvig Letters Sans",
+     "share": 92,
+     "status": "loaded"
+    },
+    {
+     "family": "Hedvig Letters Serif",
+     "share": 7,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Hedvig Letters Serif",
+   "chars": 5026
+  }
  },
  {
   "id": 35,
@@ -879,7 +1418,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "PP Neue Montreal",
+     "share": 99,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 1235
+  }
  },
  {
   "id": 36,
@@ -904,7 +1454,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Geist Variable",
+     "share": 85,
+     "status": "loaded"
+    },
+    {
+     "family": "Gelica",
+     "share": 14,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Gelica",
+   "chars": 560
+  }
  },
  {
   "id": 37,
@@ -929,7 +1495,33 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "font Regular",
+     "share": 49,
+     "status": "loaded"
+    },
+    {
+     "family": "Chivo Mono",
+     "share": 26,
+     "status": "loaded"
+    },
+    {
+     "family": "Sequel Sans Regular",
+     "share": 10,
+     "status": "loaded"
+    },
+    {
+     "family": "Sequel Sans",
+     "share": 9,
+     "status": "unconfirmed"
+    }
+   ],
+   "h1": "font Regular",
+   "chars": 1147
+  }
  },
  {
   "id": 38,
@@ -954,7 +1546,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "ABCDiatype",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": "ABCDiatype",
+   "chars": 4711
+  }
  },
  {
   "id": 39,
@@ -979,7 +1582,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "SF Pro Text Bold",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": "SF Pro Text Bold",
+   "chars": 302
+  }
  },
  {
   "id": 40,
@@ -1004,7 +1618,33 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "PP Neue Montreal Medium",
+     "share": 40,
+     "status": "loaded"
+    },
+    {
+     "family": "PP Neue Montreal Regular",
+     "share": 34,
+     "status": "loaded"
+    },
+    {
+     "family": "Neue Montreal",
+     "share": 19,
+     "status": "unconfirmed"
+    },
+    {
+     "family": "Geist Mono",
+     "share": 5,
+     "status": "loaded"
+    }
+   ],
+   "h1": "PP Neue Montreal Medium",
+   "chars": 3104
+  }
  },
  {
   "id": 41,
@@ -1029,7 +1669,23 @@
   ],
   "cookie_note": "No thanks",
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Inter",
+     "share": 84,
+     "status": "loaded"
+    },
+    {
+     "family": "ABC Diatype",
+     "share": 13,
+     "status": "loaded"
+    }
+   ],
+   "h1": "ABC Diatype",
+   "chars": 4799
+  }
  },
  {
   "id": 42,
@@ -1054,7 +1710,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Inter",
+     "share": 99,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Inter",
+   "chars": 2459
+  }
  },
  {
   "id": 43,
@@ -1079,7 +1746,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Space Mono",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Space Mono",
+   "chars": 3669
+  }
  },
  {
   "id": 44,
@@ -1104,7 +1782,33 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Haas Grot Text R Web 55 Roman",
+     "share": 60,
+     "status": "loaded"
+    },
+    {
+     "family": "Haas Grot Display Round Web 65 Medium",
+     "share": 17,
+     "status": "loaded"
+    },
+    {
+     "family": "Roboto Mono",
+     "share": 13,
+     "status": "loaded"
+    },
+    {
+     "family": "Haas Grot Display Round Web",
+     "share": 5,
+     "status": "unconfirmed"
+    }
+   ],
+   "h1": null,
+   "chars": 3291
+  }
  },
  {
   "id": 45,
@@ -1129,7 +1833,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Season VF",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Season VF",
+   "chars": 7376
+  }
  },
  {
   "id": 46,
@@ -1154,7 +1869,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "MonumentGrotesk",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 696
+  }
  },
  {
   "id": 47,
@@ -1179,7 +1905,23 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "SuisseIntl-Medium-WebXL ¶",
+     "share": 53,
+     "status": "loaded"
+    },
+    {
+     "family": "IBM Plex Mono",
+     "share": 47,
+     "status": "loaded"
+    }
+   ],
+   "h1": "SuisseIntl-Medium-WebXL ¶",
+   "chars": 36
+  }
  },
  {
   "id": 48,
@@ -1204,7 +1946,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "sans",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": "sans",
+   "chars": 850
+  }
  },
  {
   "id": 49,
@@ -1229,7 +1982,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Degular",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Degular",
+   "chars": 6541
+  }
  },
  {
   "id": 50,
@@ -1254,7 +2018,18 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "font",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 153
+  }
  },
  {
   "id": 51,
@@ -1286,7 +2061,28 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Pacaembu Light Regular",
+     "share": 84,
+     "status": "loaded"
+    },
+    {
+     "family": "Pacaembu Semibold Regular",
+     "share": 10,
+     "status": "loaded"
+    },
+    {
+     "family": "Pacaembu Regular",
+     "share": 6,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Pacaembu Semibold Regular",
+   "chars": 192
+  }
  },
  {
   "id": 52,
@@ -1319,7 +2115,18 @@
   ],
   "cookie_note": "Reject All",
   "capture_flag": null,
-  "live": true
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "ABC Laica Mono Unlicensed Trial",
+     "share": 98,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 3590
+  }
  },
  {
   "id": 53,
@@ -1350,6 +2157,17 @@
   ],
   "cookie_note": null,
   "capture_flag": null,
-  "live": false
+  "live": false,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "search_system_pro_mono",
+     "share": 100,
+     "status": "loaded"
+    }
+   ],
+   "h1": null,
+   "chars": 1277
+  }
  }
 ]
