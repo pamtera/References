@@ -36,3 +36,5 @@ aside{inset:50px 0 0 0}}
 @media(max-width:860px){.grid{grid-template-columns:minmax(0,1fr)}html,body{overflow-x:hidden}}
 .noimg{aspect-ratio:16/9;display:grid;place-items:center;background:#ece8dd;color:#6b675c}
 .stage{position:relative;overflow:hidden;border-radius:8px;border:1px solid #ddd}.stage iframe{position:absolute;top:0;left:0;width:1280px;height:800px;border:0;background:#fff;transform-origin:0 0;transform:scale(var(--sc,.3))}.stage .shot{aspect-ratio:16/10;overflow:hidden}.stage .shot img{height:100%;object-fit:cover;object-position:top}
+
+.fonts{margin:6px 0;padding-left:18px}.fonts li{margin:2px 0;font-size:13px}
