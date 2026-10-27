@@ -1,7 +1,7 @@
 const $=s=>document.querySelector(s);let DATA=[],cat='Todas',tag=null,sel=null;
 const norm=s=>s.toLowerCase();const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const catsOf=i=>[...(i.hitman_category?[i.hitman_category]:[]),...i.my_categories].map(norm);
-fetch('catalog.json').then(r=>r.json()).then(d=>{DATA=d;build();
+fetch('catalog.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{DATA=d;build();
  const p=new URLSearchParams(location.hash.slice(1));if(p.get('cat'))cat=p.get('cat');if(p.get('tag'))tag=p.get('tag');if(p.get('q'))$('#q').value=p.get('q');render();
  if(p.get('open')){const i=DATA.find(x=>x.id==p.get('open'));if(i)open(i,p.get('view')||'desktop')}});
 function chips(el,list,cur,fn,all){el.innerHTML='';[...(all?[all]:[]),...list].forEach(x=>{const b=document.createElement('button');b.className='chip'+(x===cur?' on':'');b.textContent=x.charAt(0).toUpperCase()+x.slice(1);b.onclick=()=>fn(x);el.append(b)})}
@@ -27,3 +27,5 @@ function open(i,view='desktop'){sel=i;const a=$('#detail');a.hidden=false;docume
  <h3>Colores dominantes de la captura</h3><div class="sw">${i.palette.map(c=>`<i style="background:${c}" title="${c}"></i>`).join('')}</div><p class="small">Calculados de la captura, aproximados. Tipografía: sin analizar.</p>`;
  a.querySelector('.close').onclick=()=>{a.hidden=true;sel=null;document.querySelector('.wrap').classList.remove('open');render()};
  a.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>open(i,b.dataset.v));render()}
+
+;(function(){function fit(){document.querySelectorAll('.stage').forEach(function(st){st.style.setProperty('--sc',(st.clientWidth/1280).toFixed(4))})}new MutationObserver(fit).observe(document.body,{childList:true,subtree:true});addEventListener('resize',fit);fit()})();
