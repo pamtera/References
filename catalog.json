@@ -2169,5 +2169,53 @@
    "h1": null,
    "chars": 1277
   }
+ },
+ {
+  "id": 54,
+  "title": "Ghost AI",
+  "url": "https://ghost.ai/",
+  "domain": "ghost.ai",
+  "hitman_category": null,
+  "my_categories": [
+   "AI",
+   "Design"
+  ],
+  "my_tags": [
+   "low-fi",
+   "retro-futuristic",
+   "dark"
+  ],
+  "my_note": "I love its vintage-futuristic style - I don't know what to call it, but it's kind of low-fi. It's a company selling a computer to have AI at home.",
+  "embed": "no_block_declared",
+  "img": {
+   "desktop": "img/54-54-d.jpg",
+   "mobile": null
+  },
+  "palette": [
+   "#0e1215",
+   "#d3d3d2",
+   "#c1c4c7",
+   "#e2e1df",
+   "#323d49"
+  ],
+  "cookie_note": null,
+  "capture_flag": null,
+  "live": true,
+  "fonts": {
+   "fonts": [
+    {
+     "family": "Archivo",
+     "share": 84,
+     "status": "loaded"
+    },
+    {
+     "family": "Archivo Narrow",
+     "share": 16,
+     "status": "loaded"
+    }
+   ],
+   "h1": "Archivo",
+   "chars": 2890
+  }
  }
 ]
